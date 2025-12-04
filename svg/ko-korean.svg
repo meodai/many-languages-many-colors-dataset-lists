@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 10300">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="10300"/>
+  <text x="40" y="90" fill="#8f3cc0">보라색</text>
+  <text x="40" y="160" fill="#84e654">연두색</text>
+  <text x="40" y="230" fill="#41b24d">초록색</text>
+  <text x="40" y="300" fill="#b5318c">자주색</text>
+  <text x="40" y="370" fill="#8e502f">갈색</text>
+  <text x="40" y="440" fill="#50cef2">하늘색</text>
+  <text x="40" y="510" fill="#b38bdd">연보라색</text>
+  <text x="40" y="580" fill="#1f61e4">파랑색</text>
+  <text x="40" y="650" fill="#ed68bb">분홍색</text>
+  <text x="40" y="720" fill="#36a297">청록색</text>
+  <text x="40" y="790" fill="#29348a">남색</text>
+  <text x="40" y="860" fill="#4aa148">녹색</text>
+  <text x="40" y="930" fill="#2762df">파란색</text>
+  <text x="40" y="1000" fill="#f47e26">주황색</text>
+  <text x="40" y="1070" fill="#c59442">황토색</text>
+  <text x="40" y="1140" fill="#e82532">빨강색</text>
+  <text x="40" y="1210" fill="#73a743">풀색</text>
+  <text x="40" y="1280" fill="#6fe9c2">민트색</text>
+  <text x="40" y="1350" fill="#221f24">검정색</text>
+  <text x="40" y="1420" fill="#95999d">회색</text>
+  <text x="40" y="1490" fill="#58e6ab">에메랄드색</text>
+  <text x="40" y="1560" fill="#ee56ba">핑크색</text>
+  <text x="40" y="1630" fill="#313f9a">군청색</text>
+  <text x="40" y="1700" fill="#e93e50">다홍색</text>
+  <text x="40" y="1770" fill="#e1449c">진분홍색</text>
+  <text x="40" y="1840" fill="#e42633">빨간색</text>
+  <text x="40" y="1910" fill="#f4e333">노랑색</text>
+  <text x="40" y="1980" fill="#6a422e">고동색</text>
+  <text x="40" y="2050" fill="#663182">진보라색</text>
+  <text x="40" y="2120" fill="#efb08d">살구색</text>
+  <text x="40" y="2190" fill="#6ef658">형광연두색</text>
+  <text x="40" y="2260" fill="#336633">진녹색</text>
+  <text x="40" y="2330" fill="#757f41">카키색</text>
+  <text x="40" y="2400" fill="#94da77">연녹색</text>
+  <text x="40" y="2470" fill="#ef31a4">핫핑크색</text>
+  <text x="40" y="2540" fill="#869140">올리브색</text>
+  <text x="40" y="2610" fill="#eca5c6">연분홍색</text>
+  <text x="40" y="2680" fill="#f2df2d">노란색</text>
+  <text x="40" y="2750" fill="#5ae1ba">옥색</text>
+  <text x="40" y="2820" fill="#d8c59b">베이지색</text>
+  <text x="40" y="2890" fill="#88342f">적갈색</text>
+  <text x="40" y="2960" fill="#d3bc33">겨자색</text>
+  <text x="40" y="3030" fill="#b48862">연갈색</text>
+  <text x="40" y="3100" fill="#ae36e9">형광보라색</text>
+  <text x="40" y="3170" fill="#dc36a3">마젠타색</text>
+  <text x="40" y="3240" fill="#202023">검은색</text>
+  <text x="40" y="3310" fill="#43f15e">형광초록색</text>
+  <text x="40" y="3380" fill="#2f6235">진초록색</text>
+  <text x="40" y="3450" fill="#ac41db">밝은보라색</text>
+  <text x="40" y="3520" fill="#406b3c">짙은녹색</text>
+  <text x="40" y="3590" fill="#2d5ac6">청색</text>
+  <text x="40" y="3660" fill="#aeee45">라임색</text>
+  <text x="40" y="3730" fill="#6fe180">연초록색</text>
+  <text x="40" y="3800" fill="#d8387c">자홍색</text>
+  <text x="40" y="3870" fill="#8bf260">밝은연두색</text>
+  <text x="40" y="3940" fill="#edba9c">살색</text>
+  <text x="40" y="4010" fill="#c9d5ad">상아색</text>
+  <text x="40" y="4080" fill="#4ca3ee">연파랑색</text>
+  <text x="40" y="4150" fill="#2e89d6">바다색</text>
+  <text x="40" y="4220" fill="#3aed6c">형광녹색</text>
+  <text x="40" y="4290" fill="#cab03d">금색</text>
+  <text x="40" y="4360" fill="#5c7d4a">쑥색</text>
+  <text x="40" y="4430" fill="#a2433c">벽돌색</text>
+  <text x="40" y="4500" fill="#602d70">짙은보라색</text>
+  <text x="40" y="4570" fill="#f8d036">개나리색</text>
+  <text x="40" y="4640" fill="#dd3178">진홍색</text>
+  <text x="40" y="4710" fill="#2955d0">코발트블루색</text>
+  <text x="40" y="4780" fill="#5f3ece">청보라색</text>
+  <text x="40" y="4850" fill="#44eaf1">형광하늘색</text>
+  <text x="40" y="4920" fill="#276939">짙은 초록색</text>
+  <text x="40" y="4990" fill="#5036a3">남보라색</text>
+  <text x="40" y="5060" fill="#154398">진청색</text>
+  <text x="40" y="5130" fill="#eaf373">연노랑색</text>
+  <text x="40" y="5200" fill="#3a9691">청녹색</text>
+  <text x="40" y="5270" fill="#b07a2c">황갈색</text>
+  <text x="40" y="5340" fill="#67879c">청회색</text>
+  <text x="40" y="5410" fill="#872346">와인색</text>
+  <text x="40" y="5480" fill="#f6a62e">귤색</text>
+  <text x="40" y="5550" fill="#98f560">형광색</text>
+  <text x="40" y="5620" fill="#ea44a2">꽃분홍색</text>
+  <text x="40" y="5690" fill="#2242c8">진파랑색</text>
+  <text x="40" y="5760" fill="#2e3a71">곤색</text>
+  <text x="40" y="5830" fill="#e6408d">짙은분홍색</text>
+  <text x="40" y="5900" fill="#abbb44">황록색</text>
+  <text x="40" y="5970" fill="#f79126">오렌지색</text>
+  <text x="40" y="6040" fill="#32a6de">짙은 하늘색</text>
+  <text x="40" y="6110" fill="#52ef71">밝은 초록색</text>
+  <text x="40" y="6180" fill="#e63ca0">진한분홍색</text>
+  <text x="40" y="6250" fill="#f136cf">형광분홍색</text>
+  <text x="40" y="6320" fill="#50e069">밝은 녹색</text>
+  <text x="40" y="6390" fill="#6c2f93">진한 보라색</text>
+  <text x="40" y="6460" fill="#5a2f22">짙은 갈색</text>
+  <text x="40" y="6530" fill="#516835">국방색</text>
+  <text x="40" y="6600" fill="#2895f7">밝은파랑색</text>
+  <text x="40" y="6670" fill="#856268">감색</text>
+  <text x="40" y="6740" fill="#6bab39">짙은 연두색</text>
+  <text x="40" y="6810" fill="#d8d2c4">아이보리색</text>
+  <text x="40" y="6880" fill="#eb4dab">진달래색</text>
+  <text x="40" y="6950" fill="#f0f46d">레몬색</text>
+  <text x="40" y="7020" fill="#d12a40">붉은색</text>
+  <text x="40" y="7090" fill="#b48460">연한갈색</text>
+  <text x="40" y="7160" fill="#82a9d2">소라색</text>
+  <text x="40" y="7230" fill="#673724">진갈색</text>
+  <text x="40" y="7300" fill="#a12b34">적색</text>
+  <text x="40" y="7370" fill="#f5a565">연주황색</text>
+  <text x="40" y="7440" fill="#c43c70">자두색</text>
+  <text x="40" y="7510" fill="#72d27f">연한초록색</text>
+  <text x="40" y="7580" fill="#8e54ca">바이올렛색</text>
+  <text x="40" y="7650" fill="#603b79">어두운 보라색</text>
+  <text x="40" y="7720" fill="#8ae6ee">연하늘색</text>
+  <text x="40" y="7790" fill="#5edaba">연청록색</text>
+  <text x="40" y="7860" fill="#952839">버건디색</text>
+  <text x="40" y="7930" fill="#832230">검붉은색</text>
+  <text x="40" y="8000" fill="#dd827f">코랄색</text>
+  <text x="40" y="8070" fill="#f35341">주홍색</text>
+  <text x="40" y="8140" fill="#2446cd">짙은파랑색</text>
+  <text x="40" y="8210" fill="#409ce9">진하늘색</text>
+  <text x="40" y="8280" fill="#f62fbf">형광핑크색</text>
+  <text x="40" y="8350" fill="#30d8c4">밝은청록색</text>
+  <text x="40" y="8420" fill="#cd9f2e">황색</text>
+  <text x="40" y="8490" fill="#c18de5">연한 보라색</text>
+  <text x="40" y="8560" fill="#bc5bb7">연자주색</text>
+  <text x="40" y="8630" fill="#2b6a35">진한초록색</text>
+  <text x="40" y="8700" fill="#1f215f">짙은 남색</text>
+  <text x="40" y="8770" fill="#836ca0">회보라색</text>
+  <text x="40" y="8840" fill="#c8889e">탁한분홍색</text>
+  <text x="40" y="8910" fill="#94418c">적보라색</text>
+  <text x="40" y="8980" fill="#826096">탁한보라색</text>
+  <text x="40" y="9050" fill="#d696af">인디핑크색</text>
+  <text x="40" y="9120" fill="#73852d">올리브그린색</text>
+  <text x="40" y="9190" fill="#892f68">짙은자주색</text>
+  <text x="40" y="9260" fill="#ae80d2">라벤더색</text>
+  <text x="40" y="9330" fill="#9f78d5">옅은보라색</text>
+  <text x="40" y="9400" fill="#b0ef91">연한연두색</text>
+  <text x="40" y="9470" fill="#57a5c6">연청색</text>
+  <text x="40" y="9540" fill="#27438a">네이비색</text>
+  <text x="40" y="9610" fill="#e6accb">연핑크색</text>
+  <text x="40" y="9680" fill="#55595a">진회색</text>
+  <text x="40" y="9750" fill="#56dc60">진한연두색</text>
+  <text x="40" y="9820" fill="#5dd149">진연두색</text>
+  <text x="40" y="9890" fill="#e0496f">선홍색</text>
+  <text x="40" y="9960" fill="#8a7a6e">회갈색</text>
+  <text x="40" y="10030" fill="#5b6264">짙은회색</text>
+  <text x="40" y="10100" fill="#a9bf42">황녹색</text>
+  <text x="40" y="10170" fill="#a5ba52">녹두색</text>
+  <text x="40" y="10240" fill="#42542f">짙은풀색</text>
+</svg>

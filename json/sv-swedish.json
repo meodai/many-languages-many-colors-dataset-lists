@@ -1,0 +1,70 @@
+[
+  {
+    "name": "grön",
+    "hex": "#54ed5d"
+  },
+  {
+    "name": "lila",
+    "hex": "#b636e0"
+  },
+  {
+    "name": "blå",
+    "hex": "#027ef7"
+  },
+  {
+    "name": "rosa",
+    "hex": "#f739a8"
+  },
+  {
+    "name": "brun",
+    "hex": "#9a5e38"
+  },
+  {
+    "name": "turkos",
+    "hex": "#26eede"
+  },
+  {
+    "name": "ljusgrön",
+    "hex": "#82eb76"
+  },
+  {
+    "name": "mörkblå",
+    "hex": "#203bd2"
+  },
+  {
+    "name": "gul",
+    "hex": "#f6e91f"
+  },
+  {
+    "name": "röd",
+    "hex": "#fa1d36"
+  },
+  {
+    "name": "limegrön",
+    "hex": "#96f635"
+  },
+  {
+    "name": "ljusblå",
+    "hex": "#37c4fb"
+  },
+  {
+    "name": "orange",
+    "hex": "#fc8613"
+  },
+  {
+    "name": "mörklila",
+    "hex": "#6b328a"
+  },
+  {
+    "name": "mörkgrön",
+    "hex": "#2b7137"
+  },
+  {
+    "name": "svart",
+    "hex": "#21191f"
+  },
+  {
+    "name": "mintgrön",
+    "hex": "#62ebac"
+  }
+]

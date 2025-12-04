@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="360"/>
+  <text x="40" y="90" fill="#5af05c">verde</text>
+  <text x="40" y="160" fill="#f93fb4">roz</text>
+  <text x="40" y="230" fill="#b334dc">mov</text>
+  <text x="40" y="300" fill="#0080fc">albastru</text>
+</svg>

@@ -1,0 +1,198 @@
+[
+  {
+    "name": "verde",
+    "hex": "#62cd5c"
+  },
+  {
+    "name": "azul",
+    "hex": "#227ae4"
+  },
+  {
+    "name": "morado",
+    "hex": "#923dbe"
+  },
+  {
+    "name": "rosa",
+    "hex": "#ec58a5"
+  },
+  {
+    "name": "violeta",
+    "hex": "#9a48c3"
+  },
+  {
+    "name": "rojo",
+    "hex": "#ea232f"
+  },
+  {
+    "name": "marrón",
+    "hex": "#865435"
+  },
+  {
+    "name": "naranja",
+    "hex": "#f8831e"
+  },
+  {
+    "name": "lila",
+    "hex": "#b672d7"
+  },
+  {
+    "name": "gris",
+    "hex": "#8b9394"
+  },
+  {
+    "name": "amarillo",
+    "hex": "#f4e62a"
+  },
+  {
+    "name": "turquesa",
+    "hex": "#33daca"
+  },
+  {
+    "name": "fucsia",
+    "hex": "#eb2bab"
+  },
+  {
+    "name": "cafe",
+    "hex": "#8c5a3b"
+  },
+  {
+    "name": "celeste",
+    "hex": "#40ccf0"
+  },
+  {
+    "name": "magenta",
+    "hex": "#e430a9"
+  },
+  {
+    "name": "verde oscuro",
+    "hex": "#30703d"
+  },
+  {
+    "name": "azul marino",
+    "hex": "#1c3aa0"
+  },
+  {
+    "name": "verde claro",
+    "hex": "#86e872"
+  },
+  {
+    "name": "negro",
+    "hex": "#201f21"
+  },
+  {
+    "name": "púrpura",
+    "hex": "#9436c5"
+  },
+  {
+    "name": "azul oscuro",
+    "hex": "#1e3eb0"
+  },
+  {
+    "name": "azul cielo",
+    "hex": "#4ebcf0"
+  },
+  {
+    "name": "verde limón",
+    "hex": "#8fe63a"
+  },
+  {
+    "name": "ocre",
+    "hex": "#d0a63e"
+  },
+  {
+    "name": "mostaza",
+    "hex": "#deb134"
+  },
+  {
+    "name": "beige",
+    "hex": "#d3c998"
+  },
+  {
+    "name": "cian",
+    "hex": "#30e0ea"
+  },
+  {
+    "name": "azul claro",
+    "hex": "#35acf4"
+  },
+  {
+    "name": "verde agua",
+    "hex": "#5beba9"
+  },
+  {
+    "name": "verde oliva",
+    "hex": "#7a903a"
+  },
+  {
+    "name": "salmón",
+    "hex": "#ea806d"
+  },
+  {
+    "name": "azul eléctrico",
+    "hex": "#223ee1"
+  },
+  {
+    "name": "verde lima",
+    "hex": "#9eea3e"
+  },
+  {
+    "name": "morado oscuro",
+    "hex": "#582972"
+  },
+  {
+    "name": "marrón claro",
+    "hex": "#b58858"
+  },
+  {
+    "name": "aguamarina",
+    "hex": "#37dfca"
+  },
+  {
+    "name": "azul rey",
+    "hex": "#1a4de9"
+  },
+  {
+    "name": "verde azulado",
+    "hex": "#4cc692"
+  },
+  {
+    "name": "verde militar",
+    "hex": "#6d8243"
+  },
+  {
+    "name": "lima",
+    "hex": "#94f44b"
+  },
+  {
+    "name": "vino",
+    "hex": "#761d44"
+  },
+  {
+    "name": "lila oscuro",
+    "hex": "#9867ba"
+  },
+  {
+    "name": "rosado oscuro",
+    "hex": "#dd397f"
+  },
+  {
+    "name": "verde pastel",
+    "hex": "#97ea96"
+  },
+  {
+    "name": "piel",
+    "hex": "#e0b48a"
+  },
+  {
+    "name": "marrón oscuro",
+    "hex": "#4e2b20"
+  },
+  {
+    "name": "granate",
+    "hex": "#7d2232"
+  },
+  {
+    "name": "morado claro",
+    "hex": "#af73d5"
+  }
+]

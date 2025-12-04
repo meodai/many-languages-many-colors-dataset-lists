@@ -1,0 +1,106 @@
+[
+  {
+    "name": "verde",
+    "hex": "#61d859"
+  },
+  {
+    "name": "azul",
+    "hex": "#2484ec"
+  },
+  {
+    "name": "roxo",
+    "hex": "#953fc8"
+  },
+  {
+    "name": "rosa",
+    "hex": "#f147ab"
+  },
+  {
+    "name": "marrom",
+    "hex": "#835434"
+  },
+  {
+    "name": "lilás",
+    "hex": "#b977d7"
+  },
+  {
+    "name": "laranja",
+    "hex": "#f9841c"
+  },
+  {
+    "name": "vermelho",
+    "hex": "#f12a34"
+  },
+  {
+    "name": "amarelo",
+    "hex": "#f5e421"
+  },
+  {
+    "name": "verde claro",
+    "hex": "#77f272"
+  },
+  {
+    "name": "azul escuro",
+    "hex": "#2645d0"
+  },
+  {
+    "name": "cinza",
+    "hex": "#8c8e88"
+  },
+  {
+    "name": "vinho",
+    "hex": "#85263d"
+  },
+  {
+    "name": "verde escuro",
+    "hex": "#387d3c"
+  },
+  {
+    "name": "azul marinho",
+    "hex": "#1564b6"
+  },
+  {
+    "name": "bege",
+    "hex": "#dbc588"
+  },
+  {
+    "name": "azul claro",
+    "hex": "#3bc0f9"
+  },
+  {
+    "name": "verde água",
+    "hex": "#37edb5"
+  },
+  {
+    "name": "magenta",
+    "hex": "#de33a9"
+  },
+  {
+    "name": "verde musgo",
+    "hex": "#5e8b4b"
+  },
+  {
+    "name": "preto",
+    "hex": "#2c222d"
+  },
+  {
+    "name": "violeta",
+    "hex": "#af3fd5"
+  },
+  {
+    "name": "ciano",
+    "hex": "#33ebe0"
+  },
+  {
+    "name": "verde limão",
+    "hex": "#9bf623"
+  },
+  {
+    "name": "rosa choque",
+    "hex": "#f725ae"
+  },
+  {
+    "name": "azul bebê",
+    "hex": "#79d1ef"
+  }
+]

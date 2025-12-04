@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 5820">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="5820"/>
+  <text x="40" y="90" fill="#9741c6">紫色</text>
+  <text x="40" y="160" fill="#58c454">绿色</text>
+  <text x="40" y="230" fill="#2e76e3">蓝色</text>
+  <text x="40" y="300" fill="#1c40b8">深蓝色</text>
+  <text x="40" y="370" fill="#32733c">深绿色</text>
+  <text x="40" y="440" fill="#ea76b6">粉色</text>
+  <text x="40" y="510" fill="#76cc4b">草绿色</text>
+  <text x="40" y="580" fill="#8d5835">棕色</text>
+  <text x="40" y="650" fill="#e42f39">红色</text>
+  <text x="40" y="720" fill="#652c81">深紫色</text>
+  <text x="40" y="790" fill="#90e88e">浅绿色</text>
+  <text x="40" y="860" fill="#b63096">紫红色</text>
+  <text x="40" y="930" fill="#d3a935">土黄色</text>
+  <text x="40" y="1000" fill="#3fc3f4">天蓝色</text>
+  <text x="40" y="1070" fill="#4ed4c2">青色</text>
+  <text x="40" y="1140" fill="#afdc44">黄绿色</text>
+  <text x="40" y="1210" fill="#251d22">黑色</text>
+  <text x="40" y="1280" fill="#b988de">浅紫色</text>
+  <text x="40" y="1350" fill="#f1df3b">黄色</text>
+  <text x="40" y="1420" fill="#674dd3">蓝紫色</text>
+  <text x="40" y="1490" fill="#46c9ad">蓝绿色</text>
+  <text x="40" y="1560" fill="#f17f2b">橙色</text>
+  <text x="40" y="1630" fill="#ee629f">粉红色</text>
+  <text x="40" y="1700" fill="#da5fcd">粉紫色</text>
+  <text x="40" y="1770" fill="#395e3d">墨绿色</text>
+  <text x="40" y="1840" fill="#888d8e">灰色</text>
+  <text x="40" y="1910" fill="#5cf15e">亮绿色</text>
+  <text x="40" y="1980" fill="#5bd981">青绿色</text>
+  <text x="40" y="2050" fill="#77a483">灰绿色</text>
+  <text x="40" y="2120" fill="#875637">褐色</text>
+  <text x="40" y="2190" fill="#5dc1f5">浅蓝色</text>
+  <text x="40" y="2260" fill="#e82b91">玫红色</text>
+  <text x="40" y="2330" fill="#5d87ae">灰蓝色</text>
+  <text x="40" y="2400" fill="#b889da">淡紫色</text>
+  <text x="40" y="2470" fill="#ebb59a">肉色</text>
+  <text x="40" y="2540" fill="#8ce18f">淡绿色</text>
+  <text x="40" y="2610" fill="#6df765">荧光绿色</text>
+  <text x="40" y="2680" fill="#a62435">深红色</text>
+  <text x="40" y="2750" fill="#ee3689">桃紅色</text>
+  <text x="40" y="2820" fill="#f18224">橘色</text>
+  <text x="40" y="2890" fill="#c042e7">亮紫色</text>
+  <text x="40" y="2960" fill="#9d4cd1">紫罗兰色</text>
+  <text x="40" y="3030" fill="#7d4b2c">咖啡色</text>
+  <text x="40" y="3100" fill="#e83da5">品红色</text>
+  <text x="40" y="3170" fill="#5e3d2a">深棕色</text>
+  <text x="40" y="3240" fill="#d44197">深粉色</text>
+  <text x="40" y="3310" fill="#95729b">灰紫色</text>
+  <text x="40" y="3380" fill="#874887">暗紫色</text>
+  <text x="40" y="3450" fill="#50c3f6">淡蓝色</text>
+  <text x="40" y="3520" fill="#2a5073">藏青色</text>
+  <text x="40" y="3590" fill="#24a4dc">湖蓝色</text>
+  <text x="40" y="3660" fill="#1e51bb">靛蓝色</text>
+  <text x="40" y="3730" fill="#b35035">砖红色</text>
+  <text x="40" y="3800" fill="#648499">蓝灰色</text>
+  <text x="40" y="3870" fill="#e137b2">洋红色</text>
+  <text x="40" y="3940" fill="#708841">橄榄绿色</text>
+  <text x="40" y="4010" fill="#48de5f">翠绿色</text>
+  <text x="40" y="4080" fill="#50804b">暗绿色</text>
+  <text x="40" y="4150" fill="#91243d">酒红色</text>
+  <text x="40" y="4220" fill="#41d0db">青蓝色</text>
+  <text x="40" y="4290" fill="#4143aa">靛色</text>
+  <text x="40" y="4360" fill="#98283a">暗红色</text>
+  <text x="40" y="4430" fill="#bd8f5f">浅棕色</text>
+  <text x="40" y="4500" fill="#5e7a45">军绿色</text>
+  <text x="40" y="4570" fill="#e7142d">大红色</text>
+  <text x="40" y="4640" fill="#883c34">红棕色</text>
+  <text x="40" y="4710" fill="#0055e7">宝蓝色</text>
+  <text x="40" y="4780" fill="#fb5925">橙红色</text>
+  <text x="40" y="4850" fill="#54d7e2">水蓝色</text>
+  <text x="40" y="4920" fill="#ae7f33">棕黄色</text>
+  <text x="40" y="4990" fill="#666e2b">棕绿色</text>
+  <text x="40" y="5060" fill="#0aaff7">亮蓝色</text>
+  <text x="40" y="5130" fill="#f45821">橘红色</text>
+  <text x="40" y="5200" fill="#ee3ccf">亮粉色</text>
+  <text x="40" y="5270" fill="#264378">藏蓝色</text>
+  <text x="40" y="5340" fill="#b68e4c">土色</text>
+  <text x="40" y="5410" fill="#1d7dda">海蓝色</text>
+  <text x="40" y="5480" fill="#eee588">浅黄色</text>
+  <text x="40" y="5550" fill="#81e971">嫩绿色</text>
+  <text x="40" y="5620" fill="#e1d8b2">米色</text>
+  <text x="40" y="5690" fill="#803435">棕红色</text>
+  <text x="40" y="5760" fill="#432c54">紫黑色</text>
+</svg>

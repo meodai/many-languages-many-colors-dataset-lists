@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1900">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="1900"/>
+  <text x="40" y="90" fill="#61d859">verde</text>
+  <text x="40" y="160" fill="#2484ec">azul</text>
+  <text x="40" y="230" fill="#953fc8">roxo</text>
+  <text x="40" y="300" fill="#f147ab">rosa</text>
+  <text x="40" y="370" fill="#835434">marrom</text>
+  <text x="40" y="440" fill="#b977d7">lilás</text>
+  <text x="40" y="510" fill="#f9841c">laranja</text>
+  <text x="40" y="580" fill="#f12a34">vermelho</text>
+  <text x="40" y="650" fill="#f5e421">amarelo</text>
+  <text x="40" y="720" fill="#77f272">verde claro</text>
+  <text x="40" y="790" fill="#2645d0">azul escuro</text>
+  <text x="40" y="860" fill="#8c8e88">cinza</text>
+  <text x="40" y="930" fill="#85263d">vinho</text>
+  <text x="40" y="1000" fill="#387d3c">verde escuro</text>
+  <text x="40" y="1070" fill="#1564b6">azul marinho</text>
+  <text x="40" y="1140" fill="#dbc588">bege</text>
+  <text x="40" y="1210" fill="#3bc0f9">azul claro</text>
+  <text x="40" y="1280" fill="#37edb5">verde água</text>
+  <text x="40" y="1350" fill="#de33a9">magenta</text>
+  <text x="40" y="1420" fill="#5e8b4b">verde musgo</text>
+  <text x="40" y="1490" fill="#2c222d">preto</text>
+  <text x="40" y="1560" fill="#af3fd5">violeta</text>
+  <text x="40" y="1630" fill="#33ebe0">ciano</text>
+  <text x="40" y="1700" fill="#9bf623">verde limão</text>
+  <text x="40" y="1770" fill="#f725ae">rosa choque</text>
+  <text x="40" y="1840" fill="#79d1ef">azul bebê</text>
+</svg>

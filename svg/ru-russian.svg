@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1970">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="1970"/>
+  <text x="40" y="90" fill="#4fcc57">зеленый</text>
+  <text x="40" y="160" fill="#1c5de8">синий</text>
+  <text x="40" y="230" fill="#9638cb">фиолетовый</text>
+  <text x="40" y="300" fill="#885632">коричневый</text>
+  <text x="40" y="370" fill="#f456b3">розовый</text>
+  <text x="40" y="440" fill="#2cbdf4">голубой</text>
+  <text x="40" y="510" fill="#eb2435">красный</text>
+  <text x="40" y="580" fill="#f1e932">желтый</text>
+  <text x="40" y="650" fill="#f9861b">оранжевый</text>
+  <text x="40" y="720" fill="#8af24a">салатовый</text>
+  <text x="40" y="790" fill="#c03bba">пурпурный</text>
+  <text x="40" y="860" fill="#2de4c2">бирюзовый</text>
+  <text x="40" y="930" fill="#bf62e3">сиреневый</text>
+  <text x="40" y="1000" fill="#255a2a">темно зеленый</text>
+  <text x="40" y="1070" fill="#232ca9">темно синий</text>
+  <text x="40" y="1140" fill="#8bef78">светло зеленый</text>
+  <text x="40" y="1210" fill="#909a9e">серый</text>
+  <text x="40" y="1280" fill="#e528b8">фуксия</text>
+  <text x="40" y="1350" fill="#141b1f">черный</text>
+  <text x="40" y="1420" fill="#debb9e">бежевый</text>
+  <text x="40" y="1490" fill="#6bedae">мятный</text>
+  <text x="40" y="1560" fill="#8da458">оливковый</text>
+  <text x="40" y="1630" fill="#c76ed9">лиловый</text>
+  <text x="40" y="1700" fill="#592b80">темно фиолетовый</text>
+  <text x="40" y="1770" fill="#e32073">малиновый</text>
+  <text x="40" y="1840" fill="#91233d">бордовый</text>
+  <text x="40" y="1910" fill="#708e6d">серо зелёный</text>
+</svg>

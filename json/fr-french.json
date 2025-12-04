@@ -1,0 +1,182 @@
+[
+  {
+    "name": "vert",
+    "hex": "#61d860"
+  },
+  {
+    "name": "bleu",
+    "hex": "#2181eb"
+  },
+  {
+    "name": "violet",
+    "hex": "#a340cc"
+  },
+  {
+    "name": "rose",
+    "hex": "#f153ad"
+  },
+  {
+    "name": "marron",
+    "hex": "#895935"
+  },
+  {
+    "name": "rouge",
+    "hex": "#ec2632"
+  },
+  {
+    "name": "mauve",
+    "hex": "#ae53ce"
+  },
+  {
+    "name": "orange",
+    "hex": "#fa881f"
+  },
+  {
+    "name": "turquoise",
+    "hex": "#32e6ce"
+  },
+  {
+    "name": "jaune",
+    "hex": "#f3e62e"
+  },
+  {
+    "name": "vert foncé",
+    "hex": "#356c3c"
+  },
+  {
+    "name": "bleu marine",
+    "hex": "#1e44bb"
+  },
+  {
+    "name": "vert clair",
+    "hex": "#80ed69"
+  },
+  {
+    "name": "bleu ciel",
+    "hex": "#4bc6f7"
+  },
+  {
+    "name": "brun",
+    "hex": "#825036"
+  },
+  {
+    "name": "kaki",
+    "hex": "#7e893a"
+  },
+  {
+    "name": "fushia",
+    "hex": "#ed2ab1"
+  },
+  {
+    "name": "noir",
+    "hex": "#251f20"
+  },
+  {
+    "name": "beige",
+    "hex": "#dfbe92"
+  },
+  {
+    "name": "gris",
+    "hex": "#8b9297"
+  },
+  {
+    "name": "vert fluo",
+    "hex": "#66f43f"
+  },
+  {
+    "name": "magenta",
+    "hex": "#ed29a3"
+  },
+  {
+    "name": "bordeaux",
+    "hex": "#992d3f"
+  },
+  {
+    "name": "vert pomme",
+    "hex": "#86f043"
+  },
+  {
+    "name": "bleu clair",
+    "hex": "#42c6f8"
+  },
+  {
+    "name": "bleu foncé",
+    "hex": "#2147d0"
+  },
+  {
+    "name": "cyan",
+    "hex": "#2dd9e9"
+  },
+  {
+    "name": "violet foncé",
+    "hex": "#68318d"
+  },
+  {
+    "name": "bleu roi",
+    "hex": "#294ee2"
+  },
+  {
+    "name": "indigo",
+    "hex": "#5b56cd"
+  },
+  {
+    "name": "pourpre",
+    "hex": "#983087"
+  },
+  {
+    "name": "lavande",
+    "hex": "#aa8ddc"
+  },
+  {
+    "name": "saumon",
+    "hex": "#e98b77"
+  },
+  {
+    "name": "ocre",
+    "hex": "#dca54c"
+  },
+  {
+    "name": "jaune moutarde",
+    "hex": "#e1ba30"
+  },
+  {
+    "name": "bleu nuit",
+    "hex": "#1f3480"
+  },
+  {
+    "name": "bleu gris",
+    "hex": "#648fad"
+  },
+  {
+    "name": "vert d'eau",
+    "hex": "#5feaac"
+  },
+  {
+    "name": "vert pale",
+    "hex": "#a4ed8d"
+  },
+  {
+    "name": "prune",
+    "hex": "#733364"
+  },
+  {
+    "name": "taupe",
+    "hex": "#a78879"
+  },
+  {
+    "name": "vert forêt",
+    "hex": "#367a40"
+  },
+  {
+    "name": "bleu turquoise",
+    "hex": "#21dde1"
+  },
+  {
+    "name": "vert kaki",
+    "hex": "#868a3e"
+  },
+  {
+    "name": "vert sapin",
+    "hex": "#37754a"
+  }
+]

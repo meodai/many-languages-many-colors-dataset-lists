@@ -1,0 +1,78 @@
+[
+  {
+    "name": "groen",
+    "hex": "#5bcf5f"
+  },
+  {
+    "name": "blauw",
+    "hex": "#1d7fe8"
+  },
+  {
+    "name": "paars",
+    "hex": "#a541cc"
+  },
+  {
+    "name": "bruin",
+    "hex": "#895d3b"
+  },
+  {
+    "name": "roze",
+    "hex": "#f153b1"
+  },
+  {
+    "name": "oranje",
+    "hex": "#f68d27"
+  },
+  {
+    "name": "rood",
+    "hex": "#e72b38"
+  },
+  {
+    "name": "donkerblauw",
+    "hex": "#2239c0"
+  },
+  {
+    "name": "lichtblauw",
+    "hex": "#54cff4"
+  },
+  {
+    "name": "lichtgroen",
+    "hex": "#80eb74"
+  },
+  {
+    "name": "donkergroen",
+    "hex": "#2e6740"
+  },
+  {
+    "name": "geel",
+    "hex": "#f3e726"
+  },
+  {
+    "name": "donkerpaars",
+    "hex": "#643884"
+  },
+  {
+    "name": "lila",
+    "hex": "#c583dd"
+  },
+  {
+    "name": "zwart",
+    "hex": "#251e27"
+  },
+  {
+    "name": "grijs",
+    "hex": "#87999e"
+  },
+  {
+    "name": "beige",
+    "hex": "#cec396"
+  },
+  {
+    "name": "turquoise",
+    "hex": "#34dcd4"
+  },
+  {
+    "name": "magenta",
+    "hex": "#de29bc"
+  }
+]

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 3510">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="3510"/>
+  <text x="40" y="90" fill="#62cd5c">verde</text>
+  <text x="40" y="160" fill="#227ae4">azul</text>
+  <text x="40" y="230" fill="#923dbe">morado</text>
+  <text x="40" y="300" fill="#ec58a5">rosa</text>
+  <text x="40" y="370" fill="#9a48c3">violeta</text>
+  <text x="40" y="440" fill="#ea232f">rojo</text>
+  <text x="40" y="510" fill="#865435">marrón</text>
+  <text x="40" y="580" fill="#f8831e">naranja</text>
+  <text x="40" y="650" fill="#b672d7">lila</text>
+  <text x="40" y="720" fill="#8b9394">gris</text>
+  <text x="40" y="790" fill="#f4e62a">amarillo</text>
+  <text x="40" y="860" fill="#33daca">turquesa</text>
+  <text x="40" y="930" fill="#eb2bab">fucsia</text>
+  <text x="40" y="1000" fill="#8c5a3b">cafe</text>
+  <text x="40" y="1070" fill="#40ccf0">celeste</text>
+  <text x="40" y="1140" fill="#e430a9">magenta</text>
+  <text x="40" y="1210" fill="#30703d">verde oscuro</text>
+  <text x="40" y="1280" fill="#1c3aa0">azul marino</text>
+  <text x="40" y="1350" fill="#86e872">verde claro</text>
+  <text x="40" y="1420" fill="#201f21">negro</text>
+  <text x="40" y="1490" fill="#9436c5">púrpura</text>
+  <text x="40" y="1560" fill="#1e3eb0">azul oscuro</text>
+  <text x="40" y="1630" fill="#4ebcf0">azul cielo</text>
+  <text x="40" y="1700" fill="#8fe63a">verde limón</text>
+  <text x="40" y="1770" fill="#d0a63e">ocre</text>
+  <text x="40" y="1840" fill="#deb134">mostaza</text>
+  <text x="40" y="1910" fill="#d3c998">beige</text>
+  <text x="40" y="1980" fill="#30e0ea">cian</text>
+  <text x="40" y="2050" fill="#35acf4">azul claro</text>
+  <text x="40" y="2120" fill="#5beba9">verde agua</text>
+  <text x="40" y="2190" fill="#7a903a">verde oliva</text>
+  <text x="40" y="2260" fill="#ea806d">salmón</text>
+  <text x="40" y="2330" fill="#223ee1">azul eléctrico</text>
+  <text x="40" y="2400" fill="#9eea3e">verde lima</text>
+  <text x="40" y="2470" fill="#582972">morado oscuro</text>
+  <text x="40" y="2540" fill="#b58858">marrón claro</text>
+  <text x="40" y="2610" fill="#37dfca">aguamarina</text>
+  <text x="40" y="2680" fill="#1a4de9">azul rey</text>
+  <text x="40" y="2750" fill="#4cc692">verde azulado</text>
+  <text x="40" y="2820" fill="#6d8243">verde militar</text>
+  <text x="40" y="2890" fill="#94f44b">lima</text>
+  <text x="40" y="2960" fill="#761d44">vino</text>
+  <text x="40" y="3030" fill="#9867ba">lila oscuro</text>
+  <text x="40" y="3100" fill="#dd397f">rosado oscuro</text>
+  <text x="40" y="3170" fill="#97ea96">verde pastel</text>
+  <text x="40" y="3240" fill="#e0b48a">piel</text>
+  <text x="40" y="3310" fill="#4e2b20">marrón oscuro</text>
+  <text x="40" y="3380" fill="#7d2232">granate</text>
+  <text x="40" y="3450" fill="#af73d5">morado claro</text>
+</svg>

@@ -1,0 +1,558 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 38230">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="38230"/>
+  <text x="40" y="90" fill="#5bc256">green</text>
+  <text x="40" y="160" fill="#9443c0">purple</text>
+  <text x="40" y="230" fill="#2778e0">blue</text>
+  <text x="40" y="300" fill="#ed5bac">pink</text>
+  <text x="40" y="370" fill="#885833">brown</text>
+  <text x="40" y="440" fill="#e42833">red</text>
+  <text x="40" y="510" fill="#f48425">orange</text>
+  <text x="40" y="580" fill="#d930ac">magenta</text>
+  <text x="40" y="650" fill="#3ec5b4">teal</text>
+  <text x="40" y="720" fill="#efe433">yellow</text>
+  <text x="40" y="790" fill="#919695">grey</text>
+  <text x="40" y="860" fill="#82ee3e">lime green</text>
+  <text x="40" y="930" fill="#84e574">light green</text>
+  <text x="40" y="1000" fill="#316632">dark green</text>
+  <text x="40" y="1070" fill="#38d3c6">turquoise</text>
+  <text x="40" y="1140" fill="#4ec2f0">light blue</text>
+  <text x="40" y="1210" fill="#9246c4">violet</text>
+  <text x="40" y="1280" fill="#b28cd7">lavender</text>
+  <text x="40" y="1350" fill="#221f22">black</text>
+  <text x="40" y="1420" fill="#4abcf1">sky blue</text>
+  <text x="40" y="1490" fill="#213baf">dark blue</text>
+  <text x="40" y="1560" fill="#356f37">forest green</text>
+  <text x="40" y="1630" fill="#84273a">maroon</text>
+  <text x="40" y="1700" fill="#23387e">navy blue</text>
+  <text x="40" y="1770" fill="#5e2b73">dark purple</text>
+  <text x="40" y="1840" fill="#5ef444">neon green</text>
+  <text x="40" y="1910" fill="#e132b4">fuschia</text>
+  <text x="40" y="1980" fill="#f22d9f">hot pink</text>
+  <text x="40" y="2050" fill="#cdab73">tan</text>
+  <text x="40" y="2120" fill="#253dd9">royal blue</text>
+  <text x="40" y="2190" fill="#bb76d8">light purple</text>
+  <text x="40" y="2260" fill="#b98eda">lilac</text>
+  <text x="40" y="2330" fill="#d4bc8f">beige</text>
+  <text x="40" y="2400" fill="#3ddde1">cyan</text>
+  <text x="40" y="2470" fill="#223577">navy</text>
+  <text x="40" y="2540" fill="#aa6991">mauve</text>
+  <text x="40" y="2610" fill="#533cb9">indigo</text>
+  <text x="40" y="2680" fill="#92ee42">lime</text>
+  <text x="40" y="2750" fill="#3dddd2">aqua</text>
+  <text x="40" y="2820" fill="#f0a985">peach</text>
+  <text x="40" y="2890" fill="#802539">burgundy</text>
+  <text x="40" y="2960" fill="#84913e">olive</text>
+  <text x="40" y="3030" fill="#b3e53b">yellow green</text>
+  <text x="40" y="3100" fill="#4fe94d">bright green</text>
+  <text x="40" y="3170" fill="#6ceca1">mint green</text>
+  <text x="40" y="3240" fill="#798d39">olive green</text>
+  <text x="40" y="3310" fill="#8b92e1">periwinkle</text>
+  <text x="40" y="3380" fill="#76eca8">mint</text>
+  <text x="40" y="3450" fill="#e97d76">salmon</text>
+  <text x="40" y="3520" fill="#d9b330">gold</text>
+  <text x="40" y="3590" fill="#d54083">dark pink</text>
+  <text x="40" y="3660" fill="#d7b631">mustard</text>
+  <text x="40" y="3730" fill="#ae7f51">light brown</text>
+  <text x="40" y="3800" fill="#72c9f0">baby blue</text>
+  <text x="40" y="3870" fill="#eea7cc">light pink</text>
+  <text x="40" y="3940" fill="#78356b">plum</text>
+  <text x="40" y="4010" fill="#db6b25">burnt orange</text>
+  <text x="40" y="4080" fill="#3ab696">blue green</text>
+  <text x="40" y="4150" fill="#60e7a5">seafoam green</text>
+  <text x="40" y="4220" fill="#4e2d21">dark brown</text>
+  <text x="40" y="4290" fill="#b3e041">chartreuse</text>
+  <text x="40" y="4360" fill="#5eba3f">grass green</text>
+  <text x="40" y="4430" fill="#e15f84">rose</text>
+  <text x="40" y="4500" fill="#aa39e0">bright purple</text>
+  <text x="40" y="4570" fill="#677a39">army green</text>
+  <text x="40" y="4640" fill="#9a222a">dark red</text>
+  <text x="40" y="4710" fill="#53d599">sea green</text>
+  <text x="40" y="4780" fill="#ed7069">coral</text>
+  <text x="40" y="4850" fill="#dcbc31">mustard yellow</text>
+  <text x="40" y="4920" fill="#6f90a2">blue grey</text>
+  <text x="40" y="4990" fill="#a0e29a">pale green</text>
+  <text x="40" y="5060" fill="#1a91f1">bright blue</text>
+  <text x="40" y="5130" fill="#6d2ca4">royal purple</text>
+  <text x="40" y="5200" fill="#65e7ac">seafoam</text>
+  <text x="40" y="5270" fill="#3ad4c2">aquamarine</text>
+  <text x="40" y="5340" fill="#6a8da7">grey blue</text>
+  <text x="40" y="5410" fill="#9ae59b">pastel green</text>
+  <text x="40" y="5480" fill="#8fb382">sage</text>
+  <text x="40" y="5550" fill="#ad342f">brick red</text>
+  <text x="40" y="5620" fill="#b934e6">neon purple</text>
+  <text x="40" y="5690" fill="#297174">dark teal</text>
+  <text x="40" y="5760" fill="#9f9b5a">khaki</text>
+  <text x="40" y="5830" fill="#f13db1">bright pink</text>
+  <text x="40" y="5900" fill="#3bb249">kelly green</text>
+  <text x="40" y="5970" fill="#f135c4">neon pink</text>
+  <text x="40" y="6040" fill="#c1263a">crimson</text>
+  <text x="40" y="6110" fill="#232b6c">midnight blue</text>
+  <text x="40" y="6180" fill="#f0aece">baby pink</text>
+  <text x="40" y="6250" fill="#ede5b2">cream</text>
+  <text x="40" y="6320" fill="#af977e">taupe</text>
+  <text x="40" y="6390" fill="#5f2c67">eggplant</text>
+  <text x="40" y="6460" fill="#356639">hunter green</text>
+  <text x="40" y="6530" fill="#e6671e">dark orange</text>
+  <text x="40" y="6600" fill="#2688e6">cerulean</text>
+  <text x="40" y="6670" fill="#b4502c">rust</text>
+  <text x="40" y="6740" fill="#f34e1e">red orange</text>
+  <text x="40" y="6810" fill="#d7ba2c">dark yellow</text>
+  <text x="40" y="6880" fill="#79e365">spring green</text>
+  <text x="40" y="6950" fill="#6e9044">moss green</text>
+  <text x="40" y="7020" fill="#4c5153">dark grey</text>
+  <text x="40" y="7090" fill="#89b27a">sage green</text>
+  <text x="40" y="7160" fill="#84a185">grey green</text>
+  <text x="40" y="7230" fill="#267fce">ocean blue</text>
+  <text x="40" y="7300" fill="#5b2976">deep purple</text>
+  <text x="40" y="7370" fill="#6649d2">blue purple</text>
+  <text x="40" y="7440" fill="#d8c17f">sand</text>
+  <text x="40" y="7510" fill="#eeee82">light yellow</text>
+  <text x="40" y="7580" fill="#83274b">wine</text>
+  <text x="40" y="7650" fill="#35a761">emerald</text>
+  <text x="40" y="7720" fill="#c4c9c2">light grey</text>
+  <text x="40" y="7790" fill="#2c9654">emerald green</text>
+  <text x="40" y="7860" fill="#2653d5">cobalt</text>
+  <text x="40" y="7930" fill="#34bc96">green blue</text>
+  <text x="40" y="8000" fill="#edea88">pale yellow</text>
+  <text x="40" y="8070" fill="#ce9935">ochre</text>
+  <text x="40" y="8140" fill="#66bd46">leaf green</text>
+  <text x="40" y="8210" fill="#ace43c">green yellow</text>
+  <text x="40" y="8280" fill="#da2a36">scarlet</text>
+  <text x="40" y="8350" fill="#9c2b78">dark magenta</text>
+  <text x="40" y="8420" fill="#97be43">pea green</text>
+  <text x="40" y="8490" fill="#2b9ad3">sea blue</text>
+  <text x="40" y="8560" fill="#c57c8b">dusty rose</text>
+  <text x="40" y="8630" fill="#f7a736">light orange</text>
+  <text x="40" y="8700" fill="#86bee2">pale blue</text>
+  <text x="40" y="8770" fill="#d54ac4">purple pink</text>
+  <text x="40" y="8840" fill="#16cff5">neon blue</text>
+  <text x="40" y="8910" fill="#d644c6">pink purple</text>
+  <text x="40" y="8980" fill="#923c34">red brown</text>
+  <text x="40" y="9050" fill="#e8b0c3">pale pink</text>
+  <text x="40" y="9120" fill="#2338bd">deep blue</text>
+  <text x="40" y="9190" fill="#1980f1">electric blue</text>
+  <text x="40" y="9260" fill="#f32130">bright red</text>
+  <text x="40" y="9330" fill="#e16c93">rose pink</text>
+  <text x="40" y="9400" fill="#e3e9dc">white</text>
+  <text x="40" y="9470" fill="#234ddf">cobalt blue</text>
+  <text x="40" y="9540" fill="#f2bf27">goldenrod</text>
+  <text x="40" y="9610" fill="#dbf928">neon yellow</text>
+  <text x="40" y="9680" fill="#a84837">brick</text>
+  <text x="40" y="9750" fill="#7a399d">grape</text>
+  <text x="40" y="9820" fill="#b26431">sienna</text>
+  <text x="40" y="9890" fill="#ce2a6d">raspberry</text>
+  <text x="40" y="9960" fill="#687f89">slate</text>
+  <text x="40" y="10030" fill="#ac582b">burnt sienna</text>
+  <text x="40" y="10100" fill="#5f4dd7">purple blue</text>
+  <text x="40" y="10170" fill="#357441">pine green</text>
+  <text x="40" y="10240" fill="#79974e">moss</text>
+  <text x="40" y="10310" fill="#b38bd2">pastel purple</text>
+  <text x="40" y="10380" fill="#f04a25">orange red</text>
+  <text x="40" y="10450" fill="#c659c7">orchid</text>
+  <text x="40" y="10520" fill="#b39073">puce</text>
+  <text x="40" y="10590" fill="#5980a6">slate blue</text>
+  <text x="40" y="10660" fill="#66ddc0">light teal</text>
+  <text x="40" y="10730" fill="#ce899c">dusty pink</text>
+  <text x="40" y="10800" fill="#8f7a98">grey purple</text>
+  <text x="40" y="10870" fill="#fab41a">yellow orange</text>
+  <text x="40" y="10940" fill="#e64b56">light red</text>
+  <text x="40" y="11010" fill="#458ceb">cornflower blue</text>
+  <text x="40" y="11080" fill="#9cb736">puke green</text>
+  <text x="40" y="11150" fill="#4bab79">jade</text>
+  <text x="40" y="11220" fill="#306e3f">evergreen</text>
+  <text x="40" y="11290" fill="#dd8d95">blush</text>
+  <text x="40" y="11360" fill="#5bd2e5">robin's egg blue</text>
+  <text x="40" y="11430" fill="#e7a8c4">pastel pink</text>
+  <text x="40" y="11500" fill="#712d2d">mahogany</text>
+  <text x="40" y="11570" fill="#82bce3">pastel blue</text>
+  <text x="40" y="11640" fill="#767233">green brown</text>
+  <text x="40" y="11710" fill="#f9962d">tangerine</text>
+  <text x="40" y="11780" fill="#b02327">blood red</text>
+  <text x="40" y="11850" fill="#a68935">yellow brown</text>
+  <text x="40" y="11920" fill="#1780ed">medium blue</text>
+  <text x="40" y="11990" fill="#1f98eb">azure</text>
+  <text x="40" y="12060" fill="#5c88a9">steel blue</text>
+  <text x="40" y="12130" fill="#8b7a95">purple grey</text>
+  <text x="40" y="12200" fill="#c37234">orange brown</text>
+  <text x="40" y="12270" fill="#c06043">terracotta</text>
+  <text x="40" y="12340" fill="#32d3e3">aqua blue</text>
+  <text x="40" y="12410" fill="#7db3ec">powder blue</text>
+  <text x="40" y="12480" fill="#5fba3f">grass</text>
+  <text x="40" y="12550" fill="#ef265d">red pink</text>
+  <text x="40" y="12620" fill="#6641d4">blue violet</text>
+  <text x="40" y="12690" fill="#ed7c7e">salmon pink</text>
+  <text x="40" y="12760" fill="#7b937d">green grey</text>
+  <text x="40" y="12830" fill="#2f878a">dark turquoise</text>
+  <text x="40" y="12900" fill="#356f3a">forest</text>
+  <text x="40" y="12970" fill="#d847cd">pinkish purple</text>
+  <text x="40" y="13040" fill="#6cd651">apple green</text>
+  <text x="40" y="13110" fill="#688ca9">greyish blue</text>
+  <text x="40" y="13180" fill="#924e2b">burnt umber</text>
+  <text x="40" y="13250" fill="#caea41">greenish yellow</text>
+  <text x="40" y="13320" fill="#6c2e7e">dark violet</text>
+  <text x="40" y="13390" fill="#284bda">ultramarine</text>
+  <text x="40" y="13460" fill="#deb291">nude</text>
+  <text x="40" y="13530" fill="#953e2e">reddish brown</text>
+  <text x="40" y="13600" fill="#ad87c0">pale purple</text>
+  <text x="40" y="13670" fill="#a12d75">red purple</text>
+  <text x="40" y="13740" fill="#f079c0">bubblegum pink</text>
+  <text x="40" y="13810" fill="#eb2858">pink red</text>
+  <text x="40" y="13880" fill="#e9265a">pinkish red</text>
+  <text x="40" y="13950" fill="#aad93e">yellowish green</text>
+  <text x="40" y="14020" fill="#46c290">teal green</text>
+  <text x="40" y="14090" fill="#a46536">umber</text>
+  <text x="40" y="14160" fill="#ae822f">bronze</text>
+  <text x="40" y="14230" fill="#79923c">swamp green</text>
+  <text x="40" y="14300" fill="#5592ed">cornflower</text>
+  <text x="40" y="14370" fill="#73a360">dull green</text>
+  <text x="40" y="14440" fill="#b93486">red violet</text>
+  <text x="40" y="14510" fill="#837f30">brown green</text>
+  <text x="40" y="14580" fill="#23592d">deep green</text>
+  <text x="40" y="14650" fill="#8a2033">wine red</text>
+  <text x="40" y="14720" fill="#e2e8d3">off white</text>
+  <text x="40" y="14790" fill="#f4c622">golden yellow</text>
+  <text x="40" y="14860" fill="#b9c4c7">silver</text>
+  <text x="40" y="14930" fill="#643522">chocolate</text>
+  <text x="40" y="15000" fill="#ee8527">pumpkin</text>
+  <text x="40" y="15070" fill="#3673b4">denim</text>
+  <text x="40" y="15140" fill="#748089">slate grey</text>
+  <text x="40" y="15210" fill="#776f2d">greenish brown</text>
+  <text x="40" y="15280" fill="#947097">dusty purple</text>
+  <text x="40" y="15350" fill="#224c95">prussian blue</text>
+  <text x="40" y="15420" fill="#956bb9">dark lavender</text>
+  <text x="40" y="15490" fill="#7e6f5f">grey brown</text>
+  <text x="40" y="15560" fill="#52e6db">light turquoise</text>
+  <text x="40" y="15630" fill="#5b8cbc">dusty blue</text>
+  <text x="40" y="15700" fill="#f1ba20">marigold</text>
+  <text x="40" y="15770" fill="#eef442">lemon yellow</text>
+  <text x="40" y="15840" fill="#b12429">deep red</text>
+  <text x="40" y="15910" fill="#5fb776">jade green</text>
+  <text x="40" y="15980" fill="#60265a">aubergine</text>
+  <text x="40" y="16050" fill="#e7ef4e">lemon</text>
+  <text x="40" y="16120" fill="#b5387a">berry</text>
+  <text x="40" y="16190" fill="#2d8d97">dark cyan</text>
+  <text x="40" y="16260" fill="#9f3a85">reddish purple</text>
+  <text x="40" y="16330" fill="#a53de1">electric purple</text>
+  <text x="40" y="16400" fill="#b47e62">clay</text>
+  <text x="40" y="16470" fill="#6af651">fluorescent green</text>
+  <text x="40" y="16540" fill="#e696a3">blush pink</text>
+  <text x="40" y="16610" fill="#2e8de7">cerulean blue</text>
+  <text x="40" y="16680" fill="#b57ce1">light violet</text>
+  <text x="40" y="16750" fill="#5b2231">dark maroon</text>
+  <text x="40" y="16820" fill="#e63186">deep pink</text>
+  <text x="40" y="16890" fill="#e12240">cherry red</text>
+  <text x="40" y="16960" fill="#2c2e5c">midnight</text>
+  <text x="40" y="17030" fill="#cf82a0">dull pink</text>
+  <text x="40" y="17100" fill="#e8af9e">flesh</text>
+  <text x="40" y="17170" fill="#7b698d">greyish purple</text>
+  <text x="40" y="17240" fill="#40d89d">aqua green</text>
+  <text x="40" y="17310" fill="#3ebbc3">teal blue</text>
+  <text x="40" y="17380" fill="#a5de86">pistachio</text>
+  <text x="40" y="17450" fill="#3a6dac">denim blue</text>
+  <text x="40" y="17520" fill="#703c2b">chocolate brown</text>
+  <text x="40" y="17590" fill="#e14038">vermillion</text>
+  <text x="40" y="17660" fill="#6a833f">camo green</text>
+  <text x="40" y="17730" fill="#50f157">electric green</text>
+  <text x="40" y="17800" fill="#cfc834">dirty yellow</text>
+  <text x="40" y="17870" fill="#d6ad37">yellow ochre</text>
+  <text x="40" y="17940" fill="#d78da5">dusky pink</text>
+  <text x="40" y="18010" fill="#879b83">greenish grey</text>
+  <text x="40" y="18080" fill="#868632">brownish green</text>
+  <text x="40" y="18150" fill="#306a3f">pine</text>
+  <text x="40" y="18220" fill="#784d32">coffee</text>
+  <text x="40" y="18290" fill="#44464c">charcoal</text>
+  <text x="40" y="18360" fill="#51c4f3">sky</text>
+  <text x="40" y="18430" fill="#ed346b">reddish pink</text>
+  <text x="40" y="18500" fill="#dd5ec6">light magenta</text>
+  <text x="40" y="18570" fill="#eab891">skin</text>
+  <text x="40" y="18640" fill="#a78450">dark tan</text>
+  <text x="40" y="18710" fill="#1f6262">dark blue green</text>
+  <text x="40" y="18780" fill="#8cea43">like green</text>
+  <text x="40" y="18850" fill="#aa8b2a">dark gold</text>
+  <text x="40" y="18920" fill="#799140">dirty green</text>
+  <text x="40" y="18990" fill="#9c387a">mulberry</text>
+  <text x="40" y="19060" fill="#80997b">grayish green</text>
+  <text x="40" y="19130" fill="#f0ee86">pastel yellow</text>
+  <text x="40" y="19200" fill="#1e2a50">dark navy</text>
+  <text x="40" y="19270" fill="#51b959">medium green</text>
+  <text x="40" y="19340" fill="#80d48c">soft green</text>
+  <text x="40" y="19410" fill="#f0b477">apricot</text>
+  <text x="40" y="19480" fill="#82598e">dull purple</text>
+  <text x="40" y="19550" fill="#f1d53a">dandelion</text>
+  <text x="40" y="19620" fill="#f87022">bright orange</text>
+  <text x="40" y="19690" fill="#8fee5c">neon</text>
+  <text x="40" y="19760" fill="#c06e30">copper</text>
+  <text x="40" y="19830" fill="#437bb6">dull blue</text>
+  <text x="40" y="19900" fill="#dcddba">ivory</text>
+  <text x="40" y="19970" fill="#95bc52">avocado</text>
+  <text x="40" y="20040" fill="#669f6a">muted green</text>
+  <text x="40" y="20110" fill="#f2f727">bright yellow</text>
+  <text x="40" y="20180" fill="#39b49b">greenish blue</text>
+  <text x="40" y="20250" fill="#dfe5bf">eggshell</text>
+  <text x="40" y="20320" fill="#44216a">midnight purple</text>
+  <text x="40" y="20390" fill="#828b4f">olive drab</text>
+  <text x="40" y="20460" fill="#af842e">golden brown</text>
+  <text x="40" y="20530" fill="#5e2c68">eggplant purple</text>
+  <text x="40" y="20600" fill="#687a40">military green</text>
+  <text x="40" y="20670" fill="#e08f29">amber</text>
+  <text x="40" y="20740" fill="#8dc888">faded green</text>
+  <text x="40" y="20810" fill="#903828">brown red</text>
+  <text x="40" y="20880" fill="#749a3b">sap green</text>
+  <text x="40" y="20950" fill="#592b63">plum purple</text>
+  <text x="40" y="21020" fill="#699ae8">periwinkle blue</text>
+  <text x="40" y="21090" fill="#9c3068">purple red</text>
+  <text x="40" y="21160" fill="#5e7843">navy green</text>
+  <text x="40" y="21230" fill="#499247">tree green</text>
+  <text x="40" y="21300" fill="#81909e">cool grey</text>
+  <text x="40" y="21370" fill="#b79b6d">dark beige</text>
+  <text x="40" y="21440" fill="#c18f3d">caramel</text>
+  <text x="40" y="21510" fill="#f25120">blood orange</text>
+  <text x="40" y="21580" fill="#eda85e">pale orange</text>
+  <text x="40" y="21650" fill="#994fc4">amethyst</text>
+  <text x="40" y="21720" fill="#928b85">warm grey</text>
+  <text x="40" y="21790" fill="#1b5dc3">marine blue</text>
+  <text x="40" y="21860" fill="#9b71bf">dark lilac</text>
+  <text x="40" y="21930" fill="#566930">dark olive green</text>
+  <text x="40" y="22000" fill="#a56c34">sepia</text>
+  <text x="40" y="22070" fill="#e33884">cerise</text>
+  <text x="40" y="22140" fill="#39ecc8">bright teal</text>
+  <text x="40" y="22210" fill="#6c58d8">blueish purple</text>
+  <text x="40" y="22280" fill="#a7a842">puke</text>
+  <text x="40" y="22350" fill="#934f74">dark mauve</text>
+  <text x="40" y="22420" fill="#a4b546">vomit</text>
+  <text x="40" y="22490" fill="#ea6eac">bubblegum</text>
+  <text x="40" y="22560" fill="#1e4523">dark forest green</text>
+  <text x="40" y="22630" fill="#1f2f4e">dark navy blue</text>
+  <text x="40" y="22700" fill="#886497">muted purple</text>
+  <text x="40" y="22770" fill="#dd9478">dark peach</text>
+  <text x="40" y="22840" fill="#f8b81d">orange yellow</text>
+  <text x="40" y="22910" fill="#1a57e8">true blue</text>
+  <text x="40" y="22980" fill="#453ed6">royal</text>
+  <text x="40" y="23050" fill="#42be8a">blueish green</text>
+  <text x="40" y="23120" fill="#487cba">muted blue</text>
+  <text x="40" y="23190" fill="#9ce2ef">ice blue</text>
+  <text x="40" y="23260" fill="#6a5eda">bluish purple</text>
+  <text x="40" y="23330" fill="#ab5334">auburn</text>
+  <text x="40" y="23400" fill="#ad267b">dark fuschia</text>
+  <text x="40" y="23470" fill="#6cb165">fern</text>
+  <text x="40" y="23540" fill="#505b26">dark olive</text>
+  <text x="40" y="23610" fill="#78a571">dusty green</text>
+  <text x="40" y="23680" fill="#8d4d2d">chestnut</text>
+  <text x="40" y="23750" fill="#5549ca">purplish blue</text>
+  <text x="40" y="23820" fill="#346337">bottle green</text>
+  <text x="40" y="23890" fill="#a682d2">lilac purple</text>
+  <text x="40" y="23960" fill="#6cf753">highlighter green</text>
+  <text x="40" y="24030" fill="#ce1b49">ruby</text>
+  <text x="40" y="24100" fill="#9951c9">medium purple</text>
+  <text x="40" y="24170" fill="#c43e63">rouge</text>
+  <text x="40" y="24240" fill="#c79455">camel</text>
+  <text x="40" y="24310" fill="#788e9b">steel</text>
+  <text x="40" y="24380" fill="#b88e9a">grey pink</text>
+  <text x="40" y="24450" fill="#9fb966">light olive</text>
+  <text x="40" y="24520" fill="#aa9333">brown yellow</text>
+  <text x="40" y="24590" fill="#d68ba8">muted pink</text>
+  <text x="40" y="24660" fill="#738d9f">blueish grey</text>
+  <text x="40" y="24730" fill="#f25426">reddish orange</text>
+  <text x="40" y="24800" fill="#889c3c">vomit green</text>
+  <text x="40" y="24870" fill="#1d3a26">very dark green</text>
+  <text x="40" y="24940" fill="#93bb56">avocado green</text>
+  <text x="40" y="25010" fill="#e4d29d">light tan</text>
+  <text x="40" y="25080" fill="#e3b933">golden</text>
+  <text x="40" y="25150" fill="#dd1f4a">cherry</text>
+  <text x="40" y="25220" fill="#f24aaa">barbie pink</text>
+  <text x="40" y="25290" fill="#54dad5">tiffany blue</text>
+  <text x="40" y="25360" fill="#35ca8f">bluish green</text>
+  <text x="40" y="25430" fill="#ab382e">burnt red</text>
+  <text x="40" y="25500" fill="#859653">khaki green</text>
+  <text x="40" y="25570" fill="#517f4a">seaweed</text>
+  <text x="40" y="25640" fill="#f38121">pumpkin orange</text>
+  <text x="40" y="25710" fill="#2675e2">mid blue</text>
+  <text x="40" y="25780" fill="#f32829">fire engine red</text>
+  <text x="40" y="25850" fill="#da2c4a">rose red</text>
+  <text x="40" y="25920" fill="#d642cc">purplish pink</text>
+  <text x="40" y="25990" fill="#72ebd6">light aqua</text>
+  <text x="40" y="26060" fill="#c332d9">hot purple</text>
+  <text x="40" y="26130" fill="#d46662">dark salmon</text>
+  <text x="40" y="26200" fill="#427baa">cadet blue</text>
+  <text x="40" y="26270" fill="#ea31d1">bright magenta</text>
+  <text x="40" y="26340" fill="#c34d74">dark rose</text>
+  <text x="40" y="26410" fill="#e38dc5">soft pink</text>
+  <text x="40" y="26480" fill="#799226">dark yellow green</text>
+  <text x="40" y="26550" fill="#9476a3">faded purple</text>
+  <text x="40" y="26620" fill="#849aa7">bluish grey</text>
+  <text x="40" y="26690" fill="#abb433">mustard green</text>
+  <text x="40" y="26760" fill="#a6b964">light olive green</text>
+  <text x="40" y="26830" fill="#816331">mud brown</text>
+  <text x="40" y="26900" fill="#277cc2">ocean</text>
+  <text x="40" y="26970" fill="#64e8c0">light blue green</text>
+  <text x="40" y="27040" fill="#2c32d1">ultramarine blue</text>
+  <text x="40" y="27110" fill="#32d99d">turquoise green</text>
+  <text x="40" y="27180" fill="#79e6e7">light cyan</text>
+  <text x="40" y="27250" fill="#cb2037">crimson red</text>
+  <text x="40" y="27320" fill="#5537cf">violet blue</text>
+  <text x="40" y="27390" fill="#d95b5e">pale red</text>
+  <text x="40" y="27460" fill="#dfd856">dull yellow</text>
+  <text x="40" y="27530" fill="#ce242c">scarlet red</text>
+  <text x="40" y="27600" fill="#383067">dark indigo</text>
+  <text x="40" y="27670" fill="#f16066">coral pink</text>
+  <text x="40" y="27740" fill="#f296b9">carnation pink</text>
+  <text x="40" y="27810" fill="#48893f">jungle green</text>
+  <text x="40" y="27880" fill="#802624">oxblood</text>
+  <text x="40" y="27950" fill="#eba4c6">powder pink</text>
+  <text x="40" y="28020" fill="#6b3f4d">purple brown</text>
+  <text x="40" y="28090" fill="#907e6f">greyish brown</text>
+  <text x="40" y="28160" fill="#864a21">warm brown</text>
+  <text x="40" y="28230" fill="#d2f33e">lime yellow</text>
+  <text x="40" y="28300" fill="#a3f570">light lime green</text>
+  <text x="40" y="28370" fill="#6dd0e8">robins egg</text>
+  <text x="40" y="28440" fill="#48c47f">cool green</text>
+  <text x="40" y="28510" fill="#35c646">shamrock</text>
+  <text x="40" y="28580" fill="#ca7222">brown orange</text>
+  <text x="40" y="28650" fill="#59297b">deep violet</text>
+  <text x="40" y="28720" fill="#d2b8e9">light lavender</text>
+  <text x="40" y="28790" fill="#1b2952">blue black</text>
+  <text x="40" y="28860" fill="#cd285e">cranberry</text>
+  <text x="40" y="28930" fill="#b93ee7">bright violet</text>
+  <text x="40" y="29000" fill="#9944be">violet purple</text>
+  <text x="40" y="29070" fill="#6096c5">faded blue</text>
+  <text x="40" y="29140" fill="#19215c">very dark blue</text>
+  <text x="40" y="29210" fill="#83ce7c">greenish</text>
+  <text x="40" y="29280" fill="#44ae84">ocean green</text>
+  <text x="40" y="29350" fill="#b0f5ac">very light green</text>
+  <text x="40" y="29420" fill="#a0276a">deep magenta</text>
+  <text x="40" y="29490" fill="#65ab32">leafy green</text>
+  <text x="40" y="29560" fill="#b3977e">idk</text>
+  <text x="40" y="29630" fill="#aa8567">pale brown</text>
+  <text x="40" y="29700" fill="#8f683e">dirt brown</text>
+  <text x="40" y="29770" fill="#8b7c65">brown grey</text>
+  <text x="40" y="29840" fill="#78823f">muddy green</text>
+  <text x="40" y="29910" fill="#401e46">very dark purple</text>
+  <text x="40" y="29980" fill="#ce758e">dusky rose</text>
+  <text x="40" y="30050" fill="#7b8a9a">steel grey</text>
+  <text x="40" y="30120" fill="#db6c1b">rust orange</text>
+  <text x="40" y="30190" fill="#56d48c">spearmint</text>
+  <text x="40" y="30260" fill="#d4ab2c">burnt yellow</text>
+  <text x="40" y="30330" fill="#cf601c">rusty orange</text>
+  <text x="40" y="30400" fill="#428bcf">soft blue</text>
+  <text x="40" y="30470" fill="#e5873b">dull orange</text>
+  <text x="40" y="30540" fill="#e83acc">electric pink</text>
+  <text x="40" y="30610" fill="#c82548">ruby red</text>
+  <text x="40" y="30680" fill="#56be8a">dark mint</text>
+  <text x="40" y="30750" fill="#41974e">darker green</text>
+  <text x="40" y="30820" fill="#bc912c">dark mustard</text>
+  <text x="40" y="30890" fill="#a33d5f">velvet</text>
+  <text x="40" y="30960" fill="#c99de2">baby purple</text>
+  <text x="40" y="31030" fill="#7a5836">dirt</text>
+  <text x="40" y="31100" fill="#eb9959">pastel orange</text>
+  <text x="40" y="31170" fill="#a59e8e">greige</text>
+  <text x="40" y="31240" fill="#a9422c">rust red</text>
+  <text x="40" y="31310" fill="#7f3387">grape purple</text>
+  <text x="40" y="31380" fill="#dcf92a">highlighter yellow</text>
+  <text x="40" y="31450" fill="#f22b5e">strawberry</text>
+  <text x="40" y="31520" fill="#368de8">dark sky blue</text>
+  <text x="40" y="31590" fill="#e4366a">redish pink</text>
+  <text x="40" y="31660" fill="#f4d732">sunflower yellow</text>
+  <text x="40" y="31730" fill="#274fcb">sapphire</text>
+  <text x="40" y="31800" fill="#85dbf1">light sky blue</text>
+  <text x="40" y="31870" fill="#b8f691">light lime</text>
+  <text x="40" y="31940" fill="#77d231">dark lime green</text>
+  <text x="40" y="32010" fill="#cdc87b">melon</text>
+  <text x="40" y="32080" fill="#38f3cc">neon teal</text>
+  <text x="40" y="32150" fill="#e540b0">fuchsia pink</text>
+  <text x="40" y="32220" fill="#1f4bdc">primary blue</text>
+  <text x="40" y="32290" fill="#8b2fda">vibrant purple</text>
+  <text x="40" y="32360" fill="#5083b1">dusky blue</text>
+  <text x="40" y="32430" fill="#875dc3">iris</text>
+  <text x="40" y="32500" fill="#add545">pear</text>
+  <text x="40" y="32570" fill="#70853e">murky green</text>
+  <text x="40" y="32640" fill="#6aa34a">mossy green</text>
+  <text x="40" y="32710" fill="#e1cc5a">sand yellow</text>
+  <text x="40" y="32780" fill="#8bb057">asparagus</text>
+  <text x="40" y="32850" fill="#94cfcf">duck egg blue</text>
+  <text x="40" y="32920" fill="#58a854">mid green</text>
+  <text x="40" y="32990" fill="#552255">dark plum</text>
+  <text x="40" y="33060" fill="#6768c5">dark periwinkle</text>
+  <text x="40" y="33130" fill="#8f6a2c">poop brown</text>
+  <text x="40" y="33200" fill="#c6c26f">yellow tan</text>
+  <text x="40" y="33270" fill="#31d3dd">turquoise blue</text>
+  <text x="40" y="33340" fill="#f1d337">sunflower</text>
+  <text x="40" y="33410" fill="#9eef37">acid green</text>
+  <text x="40" y="33480" fill="#66de46">green apple</text>
+  <text x="40" y="33550" fill="#79fb83">light neon green</text>
+  <text x="40" y="33620" fill="#c4f573">light yellow green</text>
+  <text x="40" y="33690" fill="#6351d9">blurple</text>
+  <text x="40" y="33760" fill="#8dad43">ugly green</text>
+  <text x="40" y="33830" fill="#ab425b">light maroon</text>
+  <text x="40" y="33900" fill="#b2ce92">tea green</text>
+  <text x="40" y="33970" fill="#477e66">spruce</text>
+  <text x="40" y="34040" fill="#7a693c">mud</text>
+  <text x="40" y="34110" fill="#a1905d">hazel</text>
+  <text x="40" y="34180" fill="#a7832a">yellowish brown</text>
+  <text x="40" y="34250" fill="#4a2a22">deep brown</text>
+  <text x="40" y="34320" fill="#627032">army</text>
+  <text x="40" y="34390" fill="#ac885e">mocha</text>
+  <text x="40" y="34460" fill="#4c79b2">jean blue</text>
+  <text x="40" y="34530" fill="#f6ec2f">canary yellow</text>
+  <text x="40" y="34600" fill="#b478d6">lavender purple</text>
+  <text x="40" y="34670" fill="#e53b21">tomato red</text>
+  <text x="40" y="34740" fill="#298de4">azure blue</text>
+  <text x="40" y="34810" fill="#254bb6">deep sea blue</text>
+  <text x="40" y="34880" fill="#97ed58">slime green</text>
+  <text x="40" y="34950" fill="#3ff3a9">bright mint</text>
+  <text x="40" y="35020" fill="#7eea73">key lime</text>
+  <text x="40" y="35090" fill="#f7e279">butter yellow</text>
+  <text x="40" y="35160" fill="#53c885">dark mint green</text>
+  <text x="40" y="35230" fill="#426abf">darkish blue</text>
+  <text x="40" y="35300" fill="#3a8e8d">dark aqua</text>
+  <text x="40" y="35370" fill="#c06924">brownish orange</text>
+  <text x="40" y="35440" fill="#294dc6">sapphire blue</text>
+  <text x="40" y="35510" fill="#c9ccc8">pale grey</text>
+  <text x="40" y="35580" fill="#a28bd4">soft purple</text>
+  <text x="40" y="35650" fill="#436ea3">light navy</text>
+  <text x="40" y="35720" fill="#a86f3f">tan brown</text>
+  <text x="40" y="35790" fill="#ee938c">peach pink</text>
+  <text x="40" y="35860" fill="#dbcf5c">muted yellow</text>
+  <text x="40" y="35930" fill="#87432b">chestnut brown</text>
+  <text x="40" y="36000" fill="#559645">darkish green</text>
+  <text x="40" y="36070" fill="#a7b26c">tan green</text>
+  <text x="40" y="36140" fill="#aabe4b">pea soup</text>
+  <text x="40" y="36210" fill="#688157">drab green</text>
+  <text x="40" y="36280" fill="#605a5b">charcoal grey</text>
+  <text x="40" y="36350" fill="#9f4d2c">rust brown</text>
+  <text x="40" y="36420" fill="#7b628e">dusky purple</text>
+  <text x="40" y="36490" fill="#e4c63d">yellow gold</text>
+  <text x="40" y="36560" fill="#e3a82d">honey</text>
+  <text x="40" y="36630" fill="#f22d2b">firetruck red</text>
+  <text x="40" y="36700" fill="#3042b8">indigo blue</text>
+  <text x="40" y="36770" fill="#52ed3b">fluro green</text>
+  <text x="40" y="36840" fill="#d6575d">dark coral</text>
+  <text x="40" y="36910" fill="#bc2749">carmine</text>
+  <text x="40" y="36980" fill="#539152">seaweed green</text>
+  <text x="40" y="37050" fill="#d3ab77">sandstone</text>
+  <text x="40" y="37120" fill="#e2d7a5">ecru</text>
+  <text x="40" y="37190" fill="#9c453e">brownish red</text>
+  <text x="40" y="37260" fill="#b3a5c3">heather</text>
+  <text x="40" y="37330" fill="#a0b02c">gross green</text>
+  <text x="40" y="37400" fill="#34b24c">irish green</text>
+  <text x="40" y="37470" fill="#90c02d">dark lime</text>
+  <text x="40" y="37540" fill="#727d3f">swamp</text>
+  <text x="40" y="37610" fill="#815f30">raw umber</text>
+  <text x="40" y="37680" fill="#af5b3f">russet</text>
+  <text x="40" y="37750" fill="#31642e">racing green</text>
+  <text x="40" y="37820" fill="#a06139">medium brown</text>
+  <text x="40" y="37890" fill="#7a681f">olive brown</text>
+  <text x="40" y="37960" fill="#a2a33c">green gold</text>
+  <text x="40" y="38030" fill="#b97772">pinkish brown</text>
+  <text x="40" y="38100" fill="#30586d">dark grey blue</text>
+  <text x="40" y="38170" fill="#704854">brown purple</text>
+</svg>

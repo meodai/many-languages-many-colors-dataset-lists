@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 3230">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="3230"/>
+  <text x="40" y="90" fill="#61d860">vert</text>
+  <text x="40" y="160" fill="#2181eb">bleu</text>
+  <text x="40" y="230" fill="#a340cc">violet</text>
+  <text x="40" y="300" fill="#f153ad">rose</text>
+  <text x="40" y="370" fill="#895935">marron</text>
+  <text x="40" y="440" fill="#ec2632">rouge</text>
+  <text x="40" y="510" fill="#ae53ce">mauve</text>
+  <text x="40" y="580" fill="#fa881f">orange</text>
+  <text x="40" y="650" fill="#32e6ce">turquoise</text>
+  <text x="40" y="720" fill="#f3e62e">jaune</text>
+  <text x="40" y="790" fill="#356c3c">vert foncé</text>
+  <text x="40" y="860" fill="#1e44bb">bleu marine</text>
+  <text x="40" y="930" fill="#80ed69">vert clair</text>
+  <text x="40" y="1000" fill="#4bc6f7">bleu ciel</text>
+  <text x="40" y="1070" fill="#825036">brun</text>
+  <text x="40" y="1140" fill="#7e893a">kaki</text>
+  <text x="40" y="1210" fill="#ed2ab1">fushia</text>
+  <text x="40" y="1280" fill="#251f20">noir</text>
+  <text x="40" y="1350" fill="#dfbe92">beige</text>
+  <text x="40" y="1420" fill="#8b9297">gris</text>
+  <text x="40" y="1490" fill="#66f43f">vert fluo</text>
+  <text x="40" y="1560" fill="#ed29a3">magenta</text>
+  <text x="40" y="1630" fill="#992d3f">bordeaux</text>
+  <text x="40" y="1700" fill="#86f043">vert pomme</text>
+  <text x="40" y="1770" fill="#42c6f8">bleu clair</text>
+  <text x="40" y="1840" fill="#2147d0">bleu foncé</text>
+  <text x="40" y="1910" fill="#2dd9e9">cyan</text>
+  <text x="40" y="1980" fill="#68318d">violet foncé</text>
+  <text x="40" y="2050" fill="#294ee2">bleu roi</text>
+  <text x="40" y="2120" fill="#5b56cd">indigo</text>
+  <text x="40" y="2190" fill="#983087">pourpre</text>
+  <text x="40" y="2260" fill="#aa8ddc">lavande</text>
+  <text x="40" y="2330" fill="#e98b77">saumon</text>
+  <text x="40" y="2400" fill="#dca54c">ocre</text>
+  <text x="40" y="2470" fill="#e1ba30">jaune moutarde</text>
+  <text x="40" y="2540" fill="#1f3480">bleu nuit</text>
+  <text x="40" y="2610" fill="#648fad">bleu gris</text>
+  <text x="40" y="2680" fill="#5feaac">vert d'eau</text>
+  <text x="40" y="2750" fill="#a4ed8d">vert pale</text>
+  <text x="40" y="2820" fill="#733364">prune</text>
+  <text x="40" y="2890" fill="#a78879">taupe</text>
+  <text x="40" y="2960" fill="#367a40">vert forêt</text>
+  <text x="40" y="3030" fill="#21dde1">bleu turquoise</text>
+  <text x="40" y="3100" fill="#868a3e">vert kaki</text>
+  <text x="40" y="3170" fill="#37754a">vert sapin</text>
+</svg>

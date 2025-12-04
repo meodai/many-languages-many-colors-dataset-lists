@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 3510">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="3510"/>
+  <text x="40" y="90" fill="#5dd558">grün</text>
+  <text x="40" y="160" fill="#2575ed">blau</text>
+  <text x="40" y="230" fill="#a943d5">lila</text>
+  <text x="40" y="300" fill="#ee2c37">rot</text>
+  <text x="40" y="370" fill="#8e5e38">braun</text>
+  <text x="40" y="440" fill="#f530b0">pink</text>
+  <text x="40" y="510" fill="#9748bd">violett</text>
+  <text x="40" y="580" fill="#34e8cf">türkis</text>
+  <text x="40" y="650" fill="#7bed68">hellgrün</text>
+  <text x="40" y="720" fill="#2b6835">dunkelgrün</text>
+  <text x="40" y="790" fill="#f88a1a">orange</text>
+  <text x="40" y="860" fill="#203bb6">dunkelblau</text>
+  <text x="40" y="930" fill="#ee70b4">rosa</text>
+  <text x="40" y="1000" fill="#3fc7f5">hellblau</text>
+  <text x="40" y="1070" fill="#f5e528">gelb</text>
+  <text x="40" y="1140" fill="#24221e">schwarz</text>
+  <text x="40" y="1210" fill="#dbc897">beige</text>
+  <text x="40" y="1280" fill="#8e9194">grau</text>
+  <text x="40" y="1350" fill="#65f54f">neongrün</text>
+  <text x="40" y="1420" fill="#cfa33a">ocker</text>
+  <text x="40" y="1490" fill="#69c647">grasgrün</text>
+  <text x="40" y="1560" fill="#eb2daf">magenta</text>
+  <text x="40" y="1630" fill="#963935">rotbraun</text>
+  <text x="40" y="1700" fill="#512e20">dunkelbraun</text>
+  <text x="40" y="1770" fill="#b779c8">flieder</text>
+  <text x="40" y="1840" fill="#bd8b5a">hellbraun</text>
+  <text x="40" y="1910" fill="#c2e73d">gelbgrün</text>
+  <text x="40" y="1980" fill="#5e2e7e">dunkellila</text>
+  <text x="40" y="2050" fill="#8f2031">dunkelrot</text>
+  <text x="40" y="2120" fill="#33b1f7">himmelblau</text>
+  <text x="40" y="2190" fill="#7d973d">olivgrün</text>
+  <text x="40" y="2260" fill="#317f83">petrol</text>
+  <text x="40" y="2330" fill="#77977a">graugrün</text>
+  <text x="40" y="2400" fill="#bc7696">altrosa</text>
+  <text x="40" y="2470" fill="#522b68">dunkelviolett</text>
+  <text x="40" y="2540" fill="#a13156">weinrot</text>
+  <text x="40" y="2610" fill="#243bdd">königsblau</text>
+  <text x="40" y="2680" fill="#70f743">giftgrün</text>
+  <text x="40" y="2750" fill="#7fd486">blassgrün</text>
+  <text x="40" y="2820" fill="#aa3480">purpur</text>
+  <text x="40" y="2890" fill="#3d733c">waldgrün</text>
+  <text x="40" y="2960" fill="#32af8c">blaugrün</text>
+  <text x="40" y="3030" fill="#b977e9">helllila</text>
+  <text x="40" y="3100" fill="#8232c6">violet</text>
+  <text x="40" y="3170" fill="#6f90b0">blaugrau</text>
+  <text x="40" y="3240" fill="#a57bca">lavendel</text>
+  <text x="40" y="3310" fill="#7e9ab5">graublau</text>
+  <text x="40" y="3380" fill="#f6c7b2">hautfarben</text>
+  <text x="40" y="3450" fill="#816e61">graubraun</text>
+</svg>

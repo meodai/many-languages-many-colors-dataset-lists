@@ -1,0 +1,50 @@
+[
+  {
+    "name": "vihreä",
+    "hex": "#56e054"
+  },
+  {
+    "name": "sininen",
+    "hex": "#1471ee"
+  },
+  {
+    "name": "violetti",
+    "hex": "#b131d8"
+  },
+  {
+    "name": "liila",
+    "hex": "#b64bca"
+  },
+  {
+    "name": "pinkki",
+    "hex": "#f634a2"
+  },
+  {
+    "name": "ruskea",
+    "hex": "#896238"
+  },
+  {
+    "name": "oranssi",
+    "hex": "#fa8716"
+  },
+  {
+    "name": "vaaleanvihreä",
+    "hex": "#84f067"
+  },
+  {
+    "name": "tummansininen",
+    "hex": "#1b38c6"
+  },
+  {
+    "name": "vaaleansininen",
+    "hex": "#44d3f1"
+  },
+  {
+    "name": "punainen",
+    "hex": "#f11d33"
+  },
+  {
+    "name": "turkoosi",
+    "hex": "#0fead2"
+  }
+]

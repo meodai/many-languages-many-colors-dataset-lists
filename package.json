@@ -1,0 +1,38 @@
+{
+  "name": "many-languages-many-colors-dataset-lists",
+  "private": false,
+  "version": "0.0.0",
+  "type": "module",
+  "main": "./dist/many-languages-many-colors-dataset-lists.umd.cjs",
+  "module": "./dist/many-languages-many-colors-dataset-lists.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/many-languages-many-colors-dataset-lists.js",
+      "require": "./dist/many-languages-many-colors-dataset-lists.umd.cjs",
+      "types": "./dist/index.d.ts"
+    },
+    "./json/*": "./json/*",
+    "./data/*": "./data/*",
+    "./svg/*": "./svg/*"
+  },
+  "files": [
+    "dist",
+    "data",
+    "json",
+    "svg"
+  ],
+  "scripts": {
+    "build": "tsc && vite build",
+    "pull-names": "npx tsx scripts/pull-names.ts"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "vite": "npm:rolldown-vite@7.2.5",
+    "vite-plugin-dts": "^4.3.0",
+    "tsx": "^4.19.0"
+  },
+  "overrides": {
+    "vite": "npm:rolldown-vite@7.2.5"
+  }
+}

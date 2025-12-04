@@ -1,0 +1,198 @@
+[
+  {
+    "name": "grün",
+    "hex": "#5dd558"
+  },
+  {
+    "name": "blau",
+    "hex": "#2575ed"
+  },
+  {
+    "name": "lila",
+    "hex": "#a943d5"
+  },
+  {
+    "name": "rot",
+    "hex": "#ee2c37"
+  },
+  {
+    "name": "braun",
+    "hex": "#8e5e38"
+  },
+  {
+    "name": "pink",
+    "hex": "#f530b0"
+  },
+  {
+    "name": "violett",
+    "hex": "#9748bd"
+  },
+  {
+    "name": "türkis",
+    "hex": "#34e8cf"
+  },
+  {
+    "name": "hellgrün",
+    "hex": "#7bed68"
+  },
+  {
+    "name": "dunkelgrün",
+    "hex": "#2b6835"
+  },
+  {
+    "name": "orange",
+    "hex": "#f88a1a"
+  },
+  {
+    "name": "dunkelblau",
+    "hex": "#203bb6"
+  },
+  {
+    "name": "rosa",
+    "hex": "#ee70b4"
+  },
+  {
+    "name": "hellblau",
+    "hex": "#3fc7f5"
+  },
+  {
+    "name": "gelb",
+    "hex": "#f5e528"
+  },
+  {
+    "name": "schwarz",
+    "hex": "#24221e"
+  },
+  {
+    "name": "beige",
+    "hex": "#dbc897"
+  },
+  {
+    "name": "grau",
+    "hex": "#8e9194"
+  },
+  {
+    "name": "neongrün",
+    "hex": "#65f54f"
+  },
+  {
+    "name": "ocker",
+    "hex": "#cfa33a"
+  },
+  {
+    "name": "grasgrün",
+    "hex": "#69c647"
+  },
+  {
+    "name": "magenta",
+    "hex": "#eb2daf"
+  },
+  {
+    "name": "rotbraun",
+    "hex": "#963935"
+  },
+  {
+    "name": "dunkelbraun",
+    "hex": "#512e20"
+  },
+  {
+    "name": "flieder",
+    "hex": "#b779c8"
+  },
+  {
+    "name": "hellbraun",
+    "hex": "#bd8b5a"
+  },
+  {
+    "name": "gelbgrün",
+    "hex": "#c2e73d"
+  },
+  {
+    "name": "dunkellila",
+    "hex": "#5e2e7e"
+  },
+  {
+    "name": "dunkelrot",
+    "hex": "#8f2031"
+  },
+  {
+    "name": "himmelblau",
+    "hex": "#33b1f7"
+  },
+  {
+    "name": "olivgrün",
+    "hex": "#7d973d"
+  },
+  {
+    "name": "petrol",
+    "hex": "#317f83"
+  },
+  {
+    "name": "graugrün",
+    "hex": "#77977a"
+  },
+  {
+    "name": "altrosa",
+    "hex": "#bc7696"
+  },
+  {
+    "name": "dunkelviolett",
+    "hex": "#522b68"
+  },
+  {
+    "name": "weinrot",
+    "hex": "#a13156"
+  },
+  {
+    "name": "königsblau",
+    "hex": "#243bdd"
+  },
+  {
+    "name": "giftgrün",
+    "hex": "#70f743"
+  },
+  {
+    "name": "blassgrün",
+    "hex": "#7fd486"
+  },
+  {
+    "name": "purpur",
+    "hex": "#aa3480"
+  },
+  {
+    "name": "waldgrün",
+    "hex": "#3d733c"
+  },
+  {
+    "name": "blaugrün",
+    "hex": "#32af8c"
+  },
+  {
+    "name": "helllila",
+    "hex": "#b977e9"
+  },
+  {
+    "name": "violet",
+    "hex": "#8232c6"
+  },
+  {
+    "name": "blaugrau",
+    "hex": "#6f90b0"
+  },
+  {
+    "name": "lavendel",
+    "hex": "#a57bca"
+  },
+  {
+    "name": "graublau",
+    "hex": "#7e9ab5"
+  },
+  {
+    "name": "hautfarben",
+    "hex": "#f6c7b2"
+  },
+  {
+    "name": "graubraun",
+    "hex": "#816e61"
+  }
+]

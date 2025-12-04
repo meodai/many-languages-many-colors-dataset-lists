@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1410">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="1410"/>
+  <text x="40" y="90" fill="#5bcf5f">groen</text>
+  <text x="40" y="160" fill="#1d7fe8">blauw</text>
+  <text x="40" y="230" fill="#a541cc">paars</text>
+  <text x="40" y="300" fill="#895d3b">bruin</text>
+  <text x="40" y="370" fill="#f153b1">roze</text>
+  <text x="40" y="440" fill="#f68d27">oranje</text>
+  <text x="40" y="510" fill="#e72b38">rood</text>
+  <text x="40" y="580" fill="#2239c0">donkerblauw</text>
+  <text x="40" y="650" fill="#54cff4">lichtblauw</text>
+  <text x="40" y="720" fill="#80eb74">lichtgroen</text>
+  <text x="40" y="790" fill="#2e6740">donkergroen</text>
+  <text x="40" y="860" fill="#f3e726">geel</text>
+  <text x="40" y="930" fill="#643884">donkerpaars</text>
+  <text x="40" y="1000" fill="#c583dd">lila</text>
+  <text x="40" y="1070" fill="#251e27">zwart</text>
+  <text x="40" y="1140" fill="#87999e">grijs</text>
+  <text x="40" y="1210" fill="#cec396">beige</text>
+  <text x="40" y="1280" fill="#34dcd4">turquoise</text>
+  <text x="40" y="1350" fill="#de29bc">magenta</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1270">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="1270"/>
+  <text x="40" y="90" fill="#54ed5d">grön</text>
+  <text x="40" y="160" fill="#b636e0">lila</text>
+  <text x="40" y="230" fill="#027ef7">blå</text>
+  <text x="40" y="300" fill="#f739a8">rosa</text>
+  <text x="40" y="370" fill="#9a5e38">brun</text>
+  <text x="40" y="440" fill="#26eede">turkos</text>
+  <text x="40" y="510" fill="#82eb76">ljusgrön</text>
+  <text x="40" y="580" fill="#203bd2">mörkblå</text>
+  <text x="40" y="650" fill="#f6e91f">gul</text>
+  <text x="40" y="720" fill="#fa1d36">röd</text>
+  <text x="40" y="790" fill="#96f635">limegrön</text>
+  <text x="40" y="860" fill="#37c4fb">ljusblå</text>
+  <text x="40" y="930" fill="#fc8613">orange</text>
+  <text x="40" y="1000" fill="#6b328a">mörklila</text>
+  <text x="40" y="1070" fill="#2b7137">mörkgrön</text>
+  <text x="40" y="1140" fill="#21191f">svart</text>
+  <text x="40" y="1210" fill="#62ebac">mintgrön</text>
+</svg>

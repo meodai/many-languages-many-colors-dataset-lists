@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 3160">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#202124" x="0" y="0" width="600" height="3160"/>
+  <text x="560" y="90" fill="#5ec866" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سبز</text>
+  <text x="560" y="160" fill="#a446cc" text-anchor="end" xml:lang="fa" unicode-bidi="embed">بنفش</text>
+  <text x="560" y="230" fill="#3582ea" text-anchor="end" xml:lang="fa" unicode-bidi="embed">آبی</text>
+  <text x="560" y="300" fill="#e62d36" text-anchor="end" xml:lang="fa" unicode-bidi="embed">قرمز</text>
+  <text x="560" y="370" fill="#ef59b5" text-anchor="end" xml:lang="fa" unicode-bidi="embed">صورتی</text>
+  <text x="560" y="440" fill="#905933" text-anchor="end" xml:lang="fa" unicode-bidi="embed">قهوه ای</text>
+  <text x="560" y="510" fill="#f68324" text-anchor="end" xml:lang="fa" unicode-bidi="embed">نارنجی</text>
+  <text x="560" y="580" fill="#f1e834" text-anchor="end" xml:lang="fa" unicode-bidi="embed">زرد</text>
+  <text x="560" y="650" fill="#5b7b45" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سبز لجنی</text>
+  <text x="560" y="720" fill="#68cb45" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سبز چمنی</text>
+  <text x="560" y="790" fill="#dbae35" text-anchor="end" xml:lang="fa" unicode-bidi="embed">خردلی</text>
+  <text x="560" y="860" fill="#3cd7b9" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سبز آبی</text>
+  <text x="560" y="930" fill="#e82f94" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سرخابی</text>
+  <text x="560" y="1000" fill="#1d52d1" text-anchor="end" xml:lang="fa" unicode-bidi="embed">آبی نفتی</text>
+  <text x="560" y="1070" fill="#78ed6a" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سبز روشن</text>
+  <text x="560" y="1140" fill="#43d6d6" text-anchor="end" xml:lang="fa" unicode-bidi="embed">فیروزه ای</text>
+  <text x="560" y="1210" fill="#75f548" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سبز فسفری</text>
+  <text x="560" y="1280" fill="#ee7e7f" text-anchor="end" xml:lang="fa" unicode-bidi="embed">گلبهی</text>
+  <text x="560" y="1350" fill="#377e3d" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سبز تیره</text>
+  <text x="560" y="1420" fill="#333590" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سرمه ای</text>
+  <text x="560" y="1490" fill="#43caf6" text-anchor="end" xml:lang="fa" unicode-bidi="embed">آبی آسمانی</text>
+  <text x="560" y="1560" fill="#9c1e36" text-anchor="end" xml:lang="fa" unicode-bidi="embed">زرشکی</text>
+  <text x="560" y="1630" fill="#c9662f" text-anchor="end" xml:lang="fa" unicode-bidi="embed">آجری</text>
+  <text x="560" y="1700" fill="#2048c4" text-anchor="end" xml:lang="fa" unicode-bidi="embed">آبی تیره</text>
+  <text x="560" y="1770" fill="#85dd60" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سبز پسته ای</text>
+  <text x="560" y="1840" fill="#a6f53c" text-anchor="end" xml:lang="fa" unicode-bidi="embed">فسفری</text>
+  <text x="560" y="1910" fill="#263689" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سورمه ای</text>
+  <text x="560" y="1980" fill="#9d9fa5" text-anchor="end" xml:lang="fa" unicode-bidi="embed">خاکستری</text>
+  <text x="560" y="2050" fill="#b93dae" text-anchor="end" xml:lang="fa" unicode-bidi="embed">ارغوانی</text>
+  <text x="560" y="2120" fill="#693293" text-anchor="end" xml:lang="fa" unicode-bidi="embed">بنفش تیره</text>
+  <text x="560" y="2190" fill="#c085d1" text-anchor="end" xml:lang="fa" unicode-bidi="embed">یاسی</text>
+  <text x="560" y="2260" fill="#708a4b" text-anchor="end" xml:lang="fa" unicode-bidi="embed">یشمی</text>
+  <text x="560" y="2330" fill="#e6c38c" text-anchor="end" xml:lang="fa" unicode-bidi="embed">کرم</text>
+  <text x="560" y="2400" fill="#909097" text-anchor="end" xml:lang="fa" unicode-bidi="embed">طوسی</text>
+  <text x="560" y="2470" fill="#a0f07c" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سبز کم رنگ</text>
+  <text x="560" y="2540" fill="#ca69df" text-anchor="end" xml:lang="fa" unicode-bidi="embed">بنفش روشن</text>
+  <text x="560" y="2610" fill="#55a6d7" text-anchor="end" xml:lang="fa" unicode-bidi="embed">نیلی</text>
+  <text x="560" y="2680" fill="#2b2ee7" text-anchor="end" xml:lang="fa" unicode-bidi="embed">آبی کاربنی</text>
+  <text x="560" y="2750" fill="#3de1eb" text-anchor="end" xml:lang="fa" unicode-bidi="embed">آبی فیروزه ای</text>
+  <text x="560" y="2820" fill="#1d703b" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سبز پررنگ</text>
+  <text x="560" y="2890" fill="#43c5f9" text-anchor="end" xml:lang="fa" unicode-bidi="embed">آبی روشن</text>
+  <text x="560" y="2960" fill="#66296c" text-anchor="end" xml:lang="fa" unicode-bidi="embed">بادمجانی</text>
+  <text x="560" y="3030" fill="#53834e" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سبز یشمی</text>
+  <text x="560" y="3100" fill="#20181a" text-anchor="end" xml:lang="fa" unicode-bidi="embed">سیاه</text>
+</svg>
